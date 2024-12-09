@@ -1,8 +1,11 @@
 # MiniCompiler
 
 Lexical Analysis - Read the input file, turn it into string, read it char per char, and turn it into a list of tokens.
+
 Syntax Analysis - Read the list of tokens, checks if the syntax is valid through recursive descent parsing.
+
 Semantic Analysis - Read the list of tokens, and checks if there are any semantic errors while parsing.
+
 
 HOW TO RUN:
 1. You need to have JavaFX installed on your PC
