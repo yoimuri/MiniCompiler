@@ -1,0 +1,3 @@
+int 123abc = 5;
+int var@name = 10;
+int _validVar1 = 15;
