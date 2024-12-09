@@ -22,5 +22,5 @@ HOW TO RUN:
     ![analyzer](https://github.com/user-attachments/assets/01f1b38f-a463-426b-a352-29afef3ab7c3)
 
 
-![correct](https://github.com/user-attachments/assets/c6d04748-02b7-4c88-9316-77fc0014ff36)
+    ![correct](https://github.com/user-attachments/assets/c6d04748-02b7-4c88-9316-77fc0014ff36)
 
